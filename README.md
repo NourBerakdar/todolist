@@ -1,6 +1,6 @@
 # todo_app
 
-It's an app that lists everything that you have to do for your tasks.
+It's an app that lists everything that you have to do and organizes your tasks into new or done or archive.
 * I made some steps in this app:
 * Bottomsheet navigator to add new tasks
 * Error handling 
